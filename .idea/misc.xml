@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (flask_sqlalchemy)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (flask_sqlalchemy_test)" project-jdk-type="Python SDK" />
+>>>>>>> b6bdb9b56b034f27c2292ab92b4976f5de28ade2
   <component name="PyCharmProfessionalAdvertiser">
     <option name="shown" value="true" />
   </component>
